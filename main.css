@@ -59,9 +59,7 @@
     
 }
 
-.default::hover {
-    transition: 10px;
-}
+
 
 .default > .title {
     font-family: 'Inter', sans-serif;
@@ -144,6 +142,7 @@
     top: 718px;
     margin-left: 285px;
     cursor: pointer;
+    color: #169C00;
     
 }
 
